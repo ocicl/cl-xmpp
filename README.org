@@ -1,0 +1,9 @@
+* cl-xmpp
+
+Cleaned-up version of CL-XMPP
+
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/atlas-engineer/cl-xmpp.git |
+| commit  | e0d5bac                                           |
+| systems | cl-xmpp                                           |
+|---------+---------------------------------------------------|
