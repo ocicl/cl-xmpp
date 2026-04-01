@@ -7,3 +7,4 @@ Cleaned-up version of CL-XMPP
 | commit  | e0d5bac                                           |
 | systems | cl-xmpp                                           |
 |---------+---------------------------------------------------|
+ 
